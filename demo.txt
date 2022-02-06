@@ -1,4 +1,0 @@
-Hello!
-This is Bhavya Thakker
-This is a git cli demo
-Thank you
